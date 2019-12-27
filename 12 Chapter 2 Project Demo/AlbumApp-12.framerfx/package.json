@@ -1,0 +1,22 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-iphone-xs-gold": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone-xs-spacegrey": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "157d7970-acfd-4b5a-99a5-5004d9cd8513"
+	},
+	"author": "Cadin Batrack",
+	"dependencies": {
+		"@framer/hyfive.feather-ui-fundamentals": "^1.22.0",
+		"@framer/kasimir.iphone-x-kit": "^1.21.0",
+		"styled-components": "^4.4.1"
+	}
+}
